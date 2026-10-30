@@ -1,0 +1,6 @@
+{
+  "name": "Pahadi SevaVaani",
+  "description": "AI Voice Assistant for Uttarakhand Government Services - Apni Bhasha, Apni Sarkar",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
